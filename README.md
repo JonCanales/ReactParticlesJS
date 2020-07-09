@@ -9,5 +9,5 @@ npm install react-particles-js || yarn add react-particles-js
 - Passed in props for the particle settings. 
 
 # Library 
-- [a link](https://www.npmjs.com/package/react-particles-js)
+- [Particles.JS React Component on NPM](https://www.npmjs.com/package/react-particles-js)
 
