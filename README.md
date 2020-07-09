@@ -1,5 +1,8 @@
 # ✨ Particles.JS implementation in React.js 🚀
 
+
+![GitHub Logo](/images/logo.png)
+
 # Installation 
 npm install react-particles-js || yarn add react-particles-js
 
